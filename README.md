@@ -1,8 +1,18 @@
-Olá, sou Ernani Mendonça, técnico em Eletrônica-CEFET-MG, estudante de Engenharia de Minas-UFMG e entusiada em programação ;)
+ # Ernani Mendonça 🦙
+   <br><br>
+    <p align="center"> <samp>
+</p>
+
+<!-- ABOUT OF ME -->
+<p align="center" style="text-align: center;">
+Olá, 
+sou Ernani Mendonça, técnico em Eletrônica-CEFET-MG, estudante de Engenharia de Minas-UFMG e entusiada em programação ;)
 
 - 🔋 Atualmente estou estudando HTML, CSS e JavaScript na Driven Education.
-- ⚡ Curiosidade: Normalmente passo metade do ano em Cusco, Peru, então se estiver querendo conhecer Machu Picchu ou outro local da capital do antigo Império Inca, pergunte-me, porque já me considero quase um guia local rsrs 🇵🇪
+- ⚡ Curiosidade: Normalmente passo metade do ano em Cusco, Peru, então se estiver querendo conhecer Machu Picchu ou outro local da capital do antigo Império Inca, pergunte-me, porque já me considero quase um guia local rsrs 🦙
 
+  
+  
 <div align="center">
   <a href="https://github.com/ernanimendonca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ernanimendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,6 +25,7 @@ Olá, sou Ernani Mendonça, técnico em Eletrônica-CEFET-MG, estudante de Engen
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 
   ##
  
@@ -28,3 +39,4 @@ Olá, sou Ernani Mendonça, técnico em Eletrônica-CEFET-MG, estudante de Engen
        <a href = "https://api.whatsapp.com/send?phone=5531994566036"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
+  

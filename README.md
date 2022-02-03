@@ -1,4 +1,4 @@
-Olá, sou Ernani Mendonça, técnico em Eletrônica - CEFET-MG, estudante de Engenharia de Minas - UFMG e entusiada em programação ;)
+Olá, sou Ernani Mendonça, técnico em Eletrônica-CEFET-MG, estudante de Engenharia de Minas-UFMG e entusiada em programação ;)
 
 - 🔋 Atualmente estou estudando HTML, CSS e JavaScript na Driven Education.
 - ⚡ Curiosidade: Normalmente passo metade do ano em Cusco, Peru, então se estiver querendo conhecer Machu Picchu ou outro local da capital do antigo Império Inca, pergunte-me, porque já me considero quase um guia local rsrs 🇵🇪
